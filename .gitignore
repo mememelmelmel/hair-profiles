@@ -37,6 +37,10 @@
 # Allow editor config (shared coding style rules, equivalent to ESLint config)
 !.editorconfig
 
+# Allow Website directory (VPM listing template files)
+!Website/
+!Website/**
+
 # Local VPM test artifacts (do not commit)
-index.json
+/index.json
 *.zip

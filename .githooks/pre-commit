@@ -7,7 +7,7 @@
 # ── 1. Allowlist ──────────────────────────────────────────────────────────────
 ALLOWED='\.(json|md|meta|txt|gitignore|gitattributes|yml|editorconfig)$'
 ALLOWED_NAMES='^(LICENSE)$'
-ALLOWED_PATHS='^\.githooks/'
+ALLOWED_PATHS='^(\.githooks/|Website/)'
 
 BLOCKED=$(git diff --cached --name-only | grep -vE "$ALLOWED" | grep -vE "$ALLOWED_NAMES" | grep -vE "$ALLOWED_PATHS")
 if [ -n "$BLOCKED" ]; then
