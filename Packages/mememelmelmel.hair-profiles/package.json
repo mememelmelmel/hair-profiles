@@ -1,0 +1,16 @@
+{
+	"name": "mememelmelmel.hair-profiles",
+	"version": "1.0.0",
+	"displayName": "Mel Hair Profiles",
+	"description": "Override profile JSON files for Mel hair assets.",
+	"unity": "2022.3",
+	"author": {
+		"name": "mememelmelmel",
+		"url": "https://github.com/mememelmelmel"
+	},
+	"url": "",
+	"repo": "",
+	"license": "MIT",
+	"dependencies": {},
+	"vpmDependencies": {}
+}
