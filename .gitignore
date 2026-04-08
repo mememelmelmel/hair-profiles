@@ -36,3 +36,7 @@
 
 # Allow editor config (shared coding style rules, equivalent to ESLint config)
 !.editorconfig
+
+# Local VPM test artifacts (do not commit)
+index.json
+*.zip
