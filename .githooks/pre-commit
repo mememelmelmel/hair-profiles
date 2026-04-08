@@ -6,9 +6,10 @@
 
 # ── 1. Allowlist ──────────────────────────────────────────────────────────────
 ALLOWED='\.(json|md|meta|txt|gitignore|gitattributes|yml|editorconfig)$'
+ALLOWED_NAMES='^(LICENSE)$'
 ALLOWED_PATHS='^\.githooks/'
 
-BLOCKED=$(git diff --cached --name-only | grep -vE "$ALLOWED" | grep -vE "$ALLOWED_PATHS")
+BLOCKED=$(git diff --cached --name-only | grep -vE "$ALLOWED" | grep -vE "$ALLOWED_NAMES" | grep -vE "$ALLOWED_PATHS")
 if [ -n "$BLOCKED" ]; then
   echo ""
   echo "ERROR: Commit blocked — non-permitted file types detected."
