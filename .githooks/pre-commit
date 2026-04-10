@@ -5,7 +5,7 @@
 # 2. JSON format      — auto-formats staged .json files with Biome
 
 # ── 1. Allowlist ──────────────────────────────────────────────────────────────
-ALLOWED='\.(json|md|meta|txt|gitignore|gitattributes|yml|editorconfig)$'
+ALLOWED='\.(json|md|meta|txt|gitignore|gitattributes|yml|editorconfig|ts)$'
 ALLOWED_NAMES='^(LICENSE)$'
 ALLOWED_PATHS='^(\.githooks/|Website/)'
 
@@ -35,3 +35,17 @@ if ! echo "$STAGED_JSON" | xargs -d '\n' biome format --write; then
 fi
 
 echo "$STAGED_JSON" | xargs -d '\n' git add
+
+# ── 3. bundle.json regeneration ───────────────────────────────────────────────
+STAGED_PROFILES=$(git diff --cached --name-only \
+  | grep -E '^Packages/.*/Hairs/[^/]+/[^/]+\.json$')
+
+if [ -n "$STAGED_PROFILES" ]; then
+  ASSET_NAMES=$(echo "$STAGED_PROFILES" | sed 's|.*/Hairs/||' | sed 's|/.*||' | sort -u)
+  if ! node node_modules/tsx/dist/cli.mjs scripts/generate-bundles.ts $ASSET_NAMES; then
+    echo ""
+    echo "ERROR: bundle.json generation failed. Fix the issue and re-stage."
+    exit 1
+  fi
+  git add Packages/mememelmelmel.hair-profiles/Bundles/*.bundle.json
+fi

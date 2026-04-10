@@ -1,6 +1,6 @@
 {
 	"name": "mememelmelmel.hair-profiles",
-	"version": "1.0.0",
+	"version": "1.1.0",
 	"displayName": "Mel Hair Profiles",
 	"description": "Override profile JSON files for Mel hair assets.",
 	"unity": "2022.3",
@@ -8,9 +8,14 @@
 		"name": "mememelmelmel",
 		"url": "https://github.com/mememelmelmel"
 	},
-	"url": "https://github.com/mememelmelmel/hair-profiles/releases/download/1.0.0/mememelmelmel.hair-profiles-1.0.0.zip",
+	"url": "https://github.com/mememelmelmel/hair-profiles/releases/download/1.1.0/mememelmelmel.hair-profiles-1.1.0.zip",
 	"repo": "https://mememelmelmel.github.io/hair-profiles/index.json",
 	"license": "MIT",
 	"dependencies": {},
-	"vpmDependencies": {}
+	"vpmDependencies": {},
+	"melHairProfiles": {
+		"profilesPath": "Hairs",
+		"bundlesPath": "Bundles",
+		"bundlePattern": "Bundles/{assetName}.bundle.json"
+	}
 }
