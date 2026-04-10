@@ -19,6 +19,9 @@
 # Allowed file types (CI/CD)
 !*.yml
 
+# Allowed file types (scripts)
+!*.ts
+
 # Allowed special files
 !.gitignore
 !.gitattributes
@@ -40,6 +43,9 @@
 # Allow Website directory (VPM listing template files)
 !Website/
 !Website/**
+
+# Node.js dependencies (do not commit)
+node_modules/
 
 # Local VPM test artifacts (do not commit)
 *.zip

@@ -32,7 +32,7 @@ jobs:
 
       - name: Create Package Zip
         working-directory: "${{ env.packagePath }}"
-        run: zip -r "${{ github.workspace }}/${{ env.zipFile }}" .
+        run: zip -r "${{ github.workspace }}/${{ env.zipFile }}" . -x "./Hairs/*" -x "./Hairs.meta"
 
       - name: Track Package Meta Files
         run: find "${{ env.packagePath }}/" -name \*.meta >> metaList
