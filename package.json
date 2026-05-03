@@ -3,10 +3,10 @@
   "scripts": {
     "generate-bundles": "tsx scripts/generate-bundles.ts",
     "generate-readmes": "tsx scripts/generate-readmes.ts",
-    "format": "node node_modules/@biomejs/biome/bin/biome format --write .",
-    "format:check": "node node_modules/@biomejs/biome/bin/biome format .",
-    "check": "node node_modules/@biomejs/biome/bin/biome check .",
-    "check:fix": "node node_modules/@biomejs/biome/bin/biome check --write ."
+    "format": "biome format --write .",
+    "format:check": "biome format .",
+    "check": "biome check .",
+    "check:fix": "biome check --write ."
   },
   "devDependencies": {
     "@biomejs/biome": "^2.4.14",

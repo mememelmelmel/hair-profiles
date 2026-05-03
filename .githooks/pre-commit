@@ -28,7 +28,7 @@ if [ -z "$STAGED_JSON" ]; then
   exit 0
 fi
 
-if ! echo "$STAGED_JSON" | xargs -d '\n' node node_modules/@biomejs/biome/bin/biome format --write; then
+if ! echo "$STAGED_JSON" | xargs -d '\n' biome format --write; then
   echo ""
   echo "Biome reported errors in the JSON files above. Fix them and re-stage."
   exit 1
