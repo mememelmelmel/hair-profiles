@@ -1,0 +1,326 @@
+{
+  "Airi": {
+    "name": "愛莉",
+    "itemUrl": "https://booth.pm/ja/items/6082686"
+  },
+  "Anomea": {
+    "name": "あのめあ",
+    "itemUrl": "https://booth.pm/ja/items/5020157"
+  },
+  "Anon": {
+    "name": "あのん",
+    "itemUrl": "https://booth.pm/ja/items/3564947"
+  },
+  "Ash": {
+    "name": "アッシュ",
+    "itemUrl": "https://booth.pm/ja/items/3234473"
+  },
+  "Aulka": {
+    "name": "アウルカ",
+    "itemUrl": "https://booth.pm/ja/items/7502523"
+  },
+  "Bokusei": {
+    "name": "墨惺",
+    "itemUrl": "https://booth.pm/ja/items/5727810"
+  },
+  "Chalo": {
+    "name": "Chalo",
+    "itemUrl": "https://booth.pm/ja/items/5201759"
+  },
+  "Chiffon": {
+    "name": "シフォン",
+    "itemUrl": "https://booth.pm/ja/items/5354471"
+  },
+  "Chocolat": {
+    "name": "ショコラ",
+    "itemUrl": "https://booth.pm/ja/items/6405390"
+  },
+  "Eku": {
+    "name": "エク",
+    "itemUrl": "https://booth.pm/ja/items/7328764"
+  },
+  "Faafaa": {
+    "name": "ふぁふぁ",
+    "itemUrl": "https://booth.pm/ja/items/5614226"
+  },
+  "Fiona": {
+    "name": "フィオナ",
+    "itemUrl": "https://booth.pm/ja/items/4592568"
+  },
+  "Flare": {
+    "name": "フレア",
+    "itemUrl": "https://booth.pm/ja/items/4768506"
+  },
+  "Hakka": {
+    "name": "薄荷",
+    "itemUrl": "https://booth.pm/ja/items/2215270"
+  },
+  "Haolan": {
+    "name": "ハオラン",
+    "itemUrl": "https://booth.pm/ja/items/3818504"
+  },
+  "Hikarun": {
+    "name": "ひかるん",
+    "itemUrl": "https://booth.pm/ja/items/7827639"
+  },
+  "Ichigo": {
+    "name": "イチゴ",
+    "itemUrl": "https://booth.pm/ja/items/7328789"
+  },
+  "Karin": {
+    "name": "カリン",
+    "itemUrl": "https://booth.pm/ja/items/3470989"
+  },
+  "Kikyo": {
+    "name": "桔梗",
+    "itemUrl": "https://booth.pm/ja/items/3681787"
+  },
+  "Kipfel": {
+    "name": "キプフェル",
+    "itemUrl": "https://booth.pm/ja/items/5813187"
+  },
+  "Komano": {
+    "name": "狛乃",
+    "itemUrl": "https://booth.pm/ja/items/5260363"
+  },
+  "Kumaly": {
+    "name": "クマリ",
+    "itemUrl": "https://booth.pm/ja/items/7928592"
+  },
+  "Kuuta": {
+    "name": "くうた",
+    "itemUrl": "https://booth.pm/ja/items/4897493"
+  },
+  "Kyoko": {
+    "name": "京狐",
+    "itemUrl": "https://booth.pm/ja/items/1826902"
+  },
+  "Lapwing": {
+    "name": "Lapwing",
+    "itemUrl": "https://booth.pm/ja/items/4993931"
+  },
+  "Lasyusha": {
+    "name": "ラシューシャ",
+    "itemUrl": "https://booth.pm/ja/items/4825073"
+  },
+  "Lazuli": {
+    "name": "ラズリ",
+    "itemUrl": "https://booth.pm/ja/items/5255692"
+  },
+  "Liloumois": {
+    "name": "リルモワ",
+    "itemUrl": "https://booth.pm/ja/items/4296377"
+  },
+  "Lime": {
+    "name": "ライム",
+    "itemUrl": "https://booth.pm/ja/items/4876459"
+  },
+  "Luchika": {
+    "name": "ルチカ",
+    "itemUrl": "https://booth.pm/ja/items/7918098"
+  },
+  "Lumelana": {
+    "name": "ルメラナ",
+    "itemUrl": "https://booth.pm/ja/items/6488991"
+  },
+  "Lumina": {
+    "name": "ルミナ",
+    "itemUrl": "https://booth.pm/ja/items/7502898"
+  },
+  "Lunalitt": {
+    "name": "ルーナリット",
+    "itemUrl": "https://booth.pm/ja/items/4063740"
+  },
+  "Lzebul": {
+    "name": "ルゼブル",
+    "itemUrl": "https://booth.pm/ja/items/4887691"
+  },
+  "Mafuyu": {
+    "name": "真冬",
+    "itemUrl": "https://booth.pm/ja/items/5007531"
+  },
+  "Mamehinata": {
+    "name": "まめひなた",
+    "itemUrl": "https://booth.pm/ja/items/4340548"
+  },
+  "Manuka": {
+    "name": "マヌカ",
+    "itemUrl": "https://booth.pm/ja/items/5058077"
+  },
+  "Mao": {
+    "name": "真央",
+    "itemUrl": "https://booth.pm/ja/items/6846646"
+  },
+  "Marycia": {
+    "name": "マリシア",
+    "itemUrl": "https://booth.pm/ja/items/6305948"
+  },
+  "Maya": {
+    "name": "舞夜",
+    "itemUrl": "https://booth.pm/ja/items/3390957"
+  },
+  "Meiyun": {
+    "name": "めいゆん",
+    "itemUrl": "https://booth.pm/ja/items/4431242"
+  },
+  "Milfy": {
+    "name": "ミルフィ",
+    "itemUrl": "https://booth.pm/ja/items/6571299"
+  },
+  "Milk": {
+    "name": "ミルク",
+    "itemUrl": "https://booth.pm/ja/items/2953391"
+  },
+  "Milltina": {
+    "name": "ミルティナ",
+    "itemUrl": "https://booth.pm/ja/items/6538026"
+  },
+  "Mizuki": {
+    "name": "瑞希",
+    "itemUrl": "https://booth.pm/ja/items/5132797"
+  },
+  "Moe": {
+    "name": "萌",
+    "itemUrl": "https://booth.pm/ja/items/4667400"
+  },
+  "Mumus": {
+    "name": "MUMUS",
+    "itemUrl": "https://booth.pm/ja/items/6951878"
+  },
+  "Munkki": {
+    "name": "むんき",
+    "itemUrl": "https://booth.pm/ja/items/5787485"
+  },
+  "Nagi": {
+    "name": "凪",
+    "itemUrl": "https://booth.pm/ja/items/5345398"
+  },
+  "Nayu": {
+    "name": "ナユ",
+    "itemUrl": "https://booth.pm/ja/items/4023598"
+  },
+  "Nemesis": {
+    "name": "ネメシス",
+    "itemUrl": "https://booth.pm/ja/items/5986971"
+  },
+  "Nochica": {
+    "name": "ノーチカ",
+    "itemUrl": "https://booth.pm/ja/items/7363489"
+  },
+  "Nozomi": {
+    "name": "望身",
+    "itemUrl": "https://booth.pm/ja/items/4962068"
+  },
+  "Perula": {
+    "name": "ペルラ",
+    "itemUrl": "https://booth.pm/ja/items/5565569"
+  },
+  "Phi": {
+    "name": "シィ&ファイ",
+    "itemUrl": "https://booth.pm/ja/items/3642210"
+  },
+  "Plum": {
+    "name": "プラム",
+    "itemUrl": "https://booth.pm/ja/items/7770415"
+  },
+  "Pmma": {
+    "name": "ピューマのぷまちゃん",
+    "itemUrl": "https://booth.pm/ja/items/7062407"
+  },
+  "RadDoll": {
+    "name": "RadDoll",
+    "itemUrl": "https://booth.pm/ja/items/3741802"
+  },
+  "Ramune": {
+    "name": "ラムネ",
+    "itemUrl": "https://booth.pm/ja/items/7699667"
+  },
+  "Rinasciita": {
+    "name": "リナシータ",
+    "itemUrl": "https://booth.pm/ja/items/7475899"
+  },
+  "Rindo": {
+    "name": "竜胆",
+    "itemUrl": "https://booth.pm/ja/items/3443188"
+  },
+  "Ririka": {
+    "name": "りりか",
+    "itemUrl": "https://booth.pm/ja/items/6373683"
+  },
+  "Rurune": {
+    "name": "ルルネ",
+    "itemUrl": "https://booth.pm/ja/items/5957830"
+  },
+  "Rushka": {
+    "name": "ルーシュカ",
+    "itemUrl": "https://booth.pm/ja/items/4296675"
+  },
+  "Rusk": {
+    "name": "ラスク",
+    "itemUrl": "https://booth.pm/ja/items/2559783"
+  },
+  "Selestia": {
+    "name": "セレスティア",
+    "itemUrl": "https://booth.pm/ja/items/4035411"
+  },
+  "Shinano": {
+    "name": "しなの",
+    "itemUrl": "https://booth.pm/ja/items/6106863"
+  },
+  "Shinra": {
+    "name": "森羅",
+    "itemUrl": "https://booth.pm/ja/items/4707634"
+  },
+  "Shipilka": {
+    "name": "シピルカ",
+    "itemUrl": "https://booth.pm/ja/items/4593994"
+  },
+  "Shiratsume": {
+    "name": "しらつめ",
+    "itemUrl": "https://booth.pm/ja/items/6831821"
+  },
+  "Shizuku": {
+    "name": "びしょぬれのしずく",
+    "itemUrl": "https://booth.pm/ja/items/3828632"
+  },
+  "Shuan": {
+    "name": "しゅあん",
+    "itemUrl": "https://booth.pm/ja/items/6669962"
+  },
+  "Sio": {
+    "name": "しお",
+    "itemUrl": "https://booth.pm/ja/items/5650156"
+  },
+  "Sophina": {
+    "name": "ソフィナ",
+    "itemUrl": "https://booth.pm/ja/items/4044305"
+  },
+  "Soraha": {
+    "name": "ソラハ",
+    "itemUrl": "https://booth.pm/ja/items/4208278"
+  },
+  "Sue": {
+    "name": "透羽",
+    "itemUrl": "https://booth.pm/ja/items/3016885"
+  },
+  "Tsuyuna": {
+    "name": "ツユナ",
+    "itemUrl": "https://booth.pm/ja/items/7506277"
+  },
+  "Yoll": {
+    "name": "龍のヨルちゃん",
+    "itemUrl": "https://booth.pm/ja/items/3923094"
+  },
+  "Yrisphere": {
+    "name": "ユリスフィア",
+    "itemUrl": "https://booth.pm/ja/items/3486694"
+  },
+  "Zange": {
+    "name": "Zange",
+    "itemUrl": "https://booth.pm/ja/items/4827340"
+  },
+  "Zome": {
+    "name": "ゾメ",
+    "itemUrl": "https://booth.pm/ja/items/4118550"
+  }
+}

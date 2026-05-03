@@ -1,0 +1,31 @@
+{
+  "$schema": "./node_modules/@biomejs/biome/configuration_schema.json",
+  "formatter": {
+    "enabled": true,
+    "indentStyle": "space",
+    "indentWidth": 2,
+    "lineEnding": "lf",
+    "lineWidth": 100
+  },
+  "json": {
+    "formatter": {
+      "enabled": true,
+      "indentStyle": "space",
+      "indentWidth": 2,
+      "trailingCommas": "none"
+    }
+  },
+  "files": {
+    "includes": [
+      "**/*.json",
+      "**/*.jsonc",
+      "**/*.ts",
+      "!**/node_modules",
+      "!**/Library",
+      "!**/Logs",
+      "!**/Temp",
+      "!**/obj",
+      "!**/.git"
+    ]
+  }
+}
