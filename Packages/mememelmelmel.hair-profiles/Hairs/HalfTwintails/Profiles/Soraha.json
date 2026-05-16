@@ -1,0 +1,21 @@
+﻿{
+  "overrides": {
+    "": {
+      "ModularAvatarBoneProxy": {
+        "attachmentMode": "2"
+      },
+      "Transform": {
+        "m_LocalPosition.y": "1.0362766",
+        "m_LocalPosition.z": "0.0256",
+        "m_LocalRotation.y": "0",
+        "m_LocalRotation.z": "0"
+      }
+    },
+    "/Hair": {
+      "Transform": {
+        "m_LocalPosition.y": "-0.0103",
+        "m_LocalPosition.z": "0.0079"
+      }
+    }
+  }
+}
