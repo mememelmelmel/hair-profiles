@@ -1,0 +1,1484 @@
+{
+  "Airi": {
+    "overrides": {
+      "/Hair": {
+        "Transform": {
+          "m_LocalPosition.z": "0.0009"
+        },
+        "SkinnedMeshRenderer": {
+          "blendShape.Bangs: MoveUpward": "0"
+        }
+      },
+      "": {
+        "Transform": {
+          "m_LocalPosition.x": "0",
+          "m_LocalPosition.y": "1.1387765",
+          "m_LocalPosition.z": "0.014755001",
+          "m_LocalRotation.y": "0",
+          "m_LocalRotation.z": "0"
+        }
+      }
+    }
+  },
+  "Anomea": {
+    "overrides": {
+      "": {
+        "Transform": {
+          "m_LocalPosition.x": "0",
+          "m_LocalPosition.y": "1.2059766",
+          "m_LocalPosition.z": "-0.007844999",
+          "m_LocalRotation.y": "0",
+          "m_LocalRotation.z": "0"
+        }
+      }
+    }
+  },
+  "Anon": {
+    "overrides": {
+      "": {
+        "Transform": {
+          "m_LocalScale.x": "1.17",
+          "m_LocalScale.y": "1.17",
+          "m_LocalScale.z": "1.17",
+          "m_LocalPosition.x": "0",
+          "m_LocalPosition.y": "1.1842766",
+          "m_LocalPosition.z": "0.010755001",
+          "m_LocalRotation.y": "0",
+          "m_LocalRotation.z": "0"
+        }
+      }
+    }
+  },
+  "Ash": {
+    "overrides": {
+      "": {
+        "Transform": {
+          "m_LocalScale.x": "1.04",
+          "m_LocalScale.y": "1.04",
+          "m_LocalScale.z": "1.04",
+          "m_LocalPosition.x": "0",
+          "m_LocalPosition.y": "1.1261766",
+          "m_LocalPosition.z": "0.00035499968",
+          "m_LocalRotation.y": "0",
+          "m_LocalRotation.z": "0"
+        }
+      }
+    }
+  },
+  "Aulka": {
+    "overrides": {
+      "": {
+        "Transform": {
+          "m_LocalPosition.x": "0",
+          "m_LocalPosition.y": "0.9554766",
+          "m_LocalPosition.z": "0.0053550005",
+          "m_LocalRotation.y": "0",
+          "m_LocalRotation.z": "0"
+        }
+      }
+    }
+  },
+  "Bokusei": {
+    "overrides": {
+      "": {
+        "Transform": {
+          "m_LocalPosition.x": "0",
+          "m_LocalPosition.y": "1.4086766",
+          "m_LocalPosition.z": "0.00075500086",
+          "m_LocalRotation.y": "0",
+          "m_LocalRotation.z": "0"
+        }
+      }
+    }
+  },
+  "Chalo": {
+    "overrides": {
+      "": {
+        "ModularAvatarBoneProxy": {
+          "attachmentMode": "2"
+        },
+        "Transform": {
+          "m_LocalScale.x": "1.02",
+          "m_LocalScale.y": "1.02",
+          "m_LocalScale.z": "1.02",
+          "m_LocalPosition.x": "0",
+          "m_LocalPosition.y": "0.9482766",
+          "m_LocalPosition.z": "-0.0035449993",
+          "m_LocalRotation.y": "0",
+          "m_LocalRotation.z": "0",
+          "m_ConstrainProportionsScale": "1"
+        }
+      },
+      "/Hair_BackSide": {
+        "SkinnedMeshRenderer": {
+          "blendShape.BackSide: ShrinkWidth": "11.5",
+          "blendShape.BackSide: MoveBraidStartForward": "11.6",
+          "blendShape.BackSide: MoveBraidStartUpward": "45.1",
+          "blendShape.BackSide: MoveNapeHairForward": "66.1",
+          "blendShape.BackSide: MoveNapeHairDownward": "25.2"
+        }
+      },
+      "/Hair": {
+        "Transform": {
+          "m_ConstrainProportionsScale": "1"
+        },
+        "SkinnedMeshRenderer": {
+          "blendShape.BackSide: ShrinkWidth": "11.5",
+          "blendShape.BackSide: MoveBraidStartForward": "11.6",
+          "blendShape.BackSide: MoveBraidStartUpward": "45.1",
+          "blendShape.BackSide: MoveNapeHairForward": "66.1",
+          "blendShape.BackSide: MoveNapeHairDownward": "25.2"
+        }
+      }
+    }
+  },
+  "Chiffon": {
+    "overrides": {
+      "": {
+        "Transform": {
+          "m_LocalPosition.x": "0",
+          "m_LocalPosition.y": "1.0642766",
+          "m_LocalPosition.z": "-0.020945",
+          "m_LocalRotation.y": "0",
+          "m_LocalRotation.z": "0"
+        }
+      }
+    }
+  },
+  "Chocolat": {
+    "overrides": {
+      "": {
+        "Transform": {
+          "m_LocalScale.x": "0.98",
+          "m_LocalScale.y": "0.98",
+          "m_LocalScale.z": "0.98",
+          "m_LocalPosition.x": "0",
+          "m_LocalPosition.y": "1.0575767",
+          "m_LocalPosition.z": "-0.028445",
+          "m_LocalRotation.y": "0",
+          "m_LocalRotation.z": "0"
+        }
+      }
+    }
+  },
+  "Eku": {
+    "overrides": {
+      "": {
+        "Transform": {
+          "m_LocalScale.x": "0.97",
+          "m_LocalScale.y": "0.97",
+          "m_LocalScale.z": "0.97",
+          "m_LocalPosition.x": "0",
+          "m_LocalPosition.y": "1.1433766",
+          "m_LocalPosition.z": "0.0025549997",
+          "m_LocalRotation.y": "0",
+          "m_LocalRotation.z": "0"
+        }
+      }
+    }
+  },
+  "Faafaa": {
+    "overrides": {
+      "": {
+        "Transform": {
+          "m_LocalPosition.x": "0",
+          "m_LocalPosition.y": "1.1880766",
+          "m_LocalPosition.z": "-0.000044999644",
+          "m_LocalRotation.y": "0",
+          "m_LocalRotation.z": "0"
+        }
+      }
+    }
+  },
+  "Fiona": {
+    "overrides": {
+      "": {
+        "Transform": {
+          "m_LocalScale.x": "1.06",
+          "m_LocalScale.y": "1.06",
+          "m_LocalScale.z": "1.06",
+          "m_LocalPosition.x": "0",
+          "m_LocalPosition.y": "1.1863766",
+          "m_LocalPosition.z": "-0.00084500015",
+          "m_LocalRotation.y": "0",
+          "m_LocalRotation.z": "0"
+        }
+      }
+    }
+  },
+  "Flare": {
+    "overrides": {
+      "": {
+        "Transform": {
+          "m_LocalScale.x": "1.04",
+          "m_LocalScale.y": "1.04",
+          "m_LocalScale.z": "1.04",
+          "m_LocalPosition.x": "0",
+          "m_LocalPosition.y": "1.0937766",
+          "m_LocalPosition.z": "-0.019345",
+          "m_LocalRotation.y": "0",
+          "m_LocalRotation.z": "0"
+        }
+      }
+    }
+  },
+  "Hakka": {
+    "overrides": {
+      "": {
+        "Transform": {
+          "m_LocalPosition.x": "0",
+          "m_LocalPosition.y": "1.1953766",
+          "m_LocalPosition.z": "-0.0073449994",
+          "m_LocalRotation.y": "0",
+          "m_LocalRotation.z": "0"
+        }
+      }
+    }
+  },
+  "Haolan": {
+    "overrides": {
+      "": {
+        "ModularAvatarBoneProxy": {
+          "attachmentMode": "2"
+        },
+        "Transform": {
+          "m_LocalPosition.x": "0",
+          "m_LocalPosition.y": "1.0952766",
+          "m_LocalPosition.z": "0.025455",
+          "m_LocalRotation.y": "0",
+          "m_LocalRotation.z": "0"
+        }
+      },
+      "/Hair_SideBangs": {
+        "SkinnedMeshRenderer": {
+          "blendShape.SideBangs: MoveBackward": "13.6",
+          "blendShape.SideBangs: ExpandDepth": "20.8"
+        }
+      },
+      "/Hair_BackSide": {
+        "SkinnedMeshRenderer": {
+          "blendShape.BackSide: ExpandWidth": "12.3",
+          "blendShape.BackSide: ExpandDepth": "21.6",
+          "blendShape.BackSide: MoveBraidStartBackward": "35",
+          "blendShape.BackSide: MoveBraidStartDownward": "56.1"
+        }
+      },
+      "/Hair_Tails": {
+        "SkinnedMeshRenderer": {
+          "blendShape.Tails: MoveBackward": "24.7",
+          "blendShape.Tails: MoveDownward": "26.7"
+        }
+      },
+      "/Hair": {
+        "SkinnedMeshRenderer": {
+          "blendShape.SideBangs: MoveBackward": "13.6",
+          "blendShape.SideBangs: ExpandDepth": "20.8",
+          "blendShape.BackSide: ExpandWidth": "12.3",
+          "blendShape.BackSide: ExpandDepth": "21.6",
+          "blendShape.BackSide: MoveBraidStartBackward": "35",
+          "blendShape.BackSide: MoveBraidStartDownward": "56.1",
+          "blendShape.Tails: MoveBackward": "24.7",
+          "blendShape.Tails: MoveDownward": "26.7"
+        }
+      }
+    }
+  },
+  "Hikarun": {
+    "overrides": {
+      "": {
+        "Transform": {
+          "m_LocalPosition.x": "0",
+          "m_LocalPosition.y": "0.6502766",
+          "m_LocalPosition.z": "-0.018044999",
+          "m_LocalRotation.y": "0",
+          "m_LocalRotation.z": "0"
+        }
+      }
+    }
+  },
+  "Ichigo": {
+    "overrides": {
+      "": {
+        "Transform": {
+          "m_LocalScale.x": "0.92",
+          "m_LocalScale.y": "0.92",
+          "m_LocalScale.z": "0.92",
+          "m_LocalPosition.x": "0",
+          "m_LocalPosition.y": "1.0574765",
+          "m_LocalPosition.z": "-0.0014449991",
+          "m_LocalRotation.y": "0",
+          "m_LocalRotation.z": "0"
+        }
+      }
+    }
+  },
+  "Karin": {
+    "overrides": {
+      "": {
+        "Transform": {
+          "m_LocalScale.x": "1.05",
+          "m_LocalScale.y": "1.05",
+          "m_LocalScale.z": "1.05",
+          "m_LocalPosition.x": "0",
+          "m_LocalPosition.y": "1.1243765",
+          "m_LocalPosition.z": "-0.017145",
+          "m_LocalRotation.y": "0",
+          "m_LocalRotation.z": "0"
+        }
+      }
+    }
+  },
+  "Kikyo": {
+    "overrides": {
+      "": {
+        "Transform": {
+          "m_LocalScale.x": "1.1",
+          "m_LocalScale.y": "1.1",
+          "m_LocalScale.z": "1.1",
+          "m_LocalPosition.x": "0",
+          "m_LocalPosition.y": "1.2618766",
+          "m_LocalPosition.z": "0.006055001",
+          "m_LocalRotation.y": "0",
+          "m_LocalRotation.z": "0"
+        }
+      }
+    }
+  },
+  "Kipfel": {
+    "overrides": {
+      "/Hair_Tails": {
+        "SkinnedMeshRenderer": {
+          "blendShape.Tails: ShrinkDepth": "23.1"
+        }
+      },
+      "/Hair": {
+        "SkinnedMeshRenderer": {
+          "blendShape.Tails: ShrinkDepth": "23.1"
+        }
+      },
+      "": {
+        "Transform": {
+          "m_LocalScale.x": "0.98",
+          "m_LocalScale.y": "0.98",
+          "m_LocalScale.z": "0.98",
+          "m_LocalPosition.x": "0",
+          "m_LocalPosition.y": "0.69597656",
+          "m_LocalPosition.z": "0.021855002",
+          "m_LocalRotation.y": "0",
+          "m_LocalRotation.z": "0"
+        }
+      }
+    }
+  },
+  "Komano": {
+    "overrides": {
+      "": {
+        "ModularAvatarBoneProxy": {
+          "attachmentMode": "2"
+        },
+        "Transform": {
+          "m_LocalPosition.x": "0",
+          "m_LocalPosition.y": "1.5984765",
+          "m_LocalPosition.z": "0.0358",
+          "m_LocalRotation.y": "0",
+          "m_LocalRotation.z": "0"
+        }
+      },
+      "/Hair_SideBangs": {
+        "SkinnedMeshRenderer": {
+          "blendShape.SideBangs: MoveBackward": "35.5",
+          "blendShape.SideBangs: ExpandDepth": "56.2"
+        }
+      },
+      "/Hair_BackSide": {
+        "SkinnedMeshRenderer": {
+          "blendShape.BackSide: ExpandDepth": "33.8",
+          "blendShape.BackSide: MoveBraidStartBackward": "30",
+          "blendShape.BackSide: MoveBraidStartDownward": "40.2",
+          "blendShape.BackSide: MoveNapeHairBackward": "89.7",
+          "blendShape.BackSide: MoveNapeHairUpward": "19.5"
+        }
+      },
+      "/Hair": {
+        "SkinnedMeshRenderer": {
+          "blendShape.SideBangs: MoveBackward": "35.5",
+          "blendShape.SideBangs: ExpandDepth": "56.2",
+          "blendShape.BackSide: ExpandDepth": "33.8",
+          "blendShape.BackSide: MoveBraidStartBackward": "30",
+          "blendShape.BackSide: MoveBraidStartDownward": "40.2",
+          "blendShape.BackSide: MoveNapeHairBackward": "89.7",
+          "blendShape.BackSide: MoveNapeHairUpward": "19.5"
+        }
+      }
+    }
+  },
+  "Kumaly": {
+    "overrides": {
+      "": {
+        "Transform": {
+          "m_LocalScale.x": "0.97",
+          "m_LocalScale.y": "0.97",
+          "m_LocalScale.z": "0.97",
+          "m_LocalPosition.x": "0",
+          "m_LocalPosition.y": "1.0994766",
+          "m_LocalPosition.z": "-0.0072449995",
+          "m_LocalRotation.y": "0",
+          "m_LocalRotation.z": "0"
+        }
+      }
+    }
+  },
+  "Kuuta": {
+    "overrides": {
+      "": {
+        "Transform": {
+          "m_LocalPosition.x": "0",
+          "m_LocalPosition.y": "1.3781766",
+          "m_LocalPosition.z": "0.002855001",
+          "m_LocalRotation.y": "0",
+          "m_LocalRotation.z": "0"
+        }
+      }
+    }
+  },
+  "Kyoko": {
+    "overrides": {
+      "": {
+        "Transform": {
+          "m_LocalPosition.x": "0",
+          "m_LocalPosition.y": "1.0787766",
+          "m_LocalPosition.z": "0.053955004",
+          "m_LocalRotation.y": "0",
+          "m_LocalRotation.z": "0"
+        }
+      }
+    }
+  },
+  "Lapwing": {
+    "overrides": {
+      "": {
+        "Transform": {
+          "m_LocalScale.x": "1.02",
+          "m_LocalScale.y": "1.02",
+          "m_LocalScale.z": "1.02",
+          "m_LocalPosition.x": "0",
+          "m_LocalPosition.y": "1.3928766",
+          "m_LocalPosition.z": "-0.020144999",
+          "m_LocalRotation.y": "0",
+          "m_LocalRotation.z": "0"
+        }
+      }
+    }
+  },
+  "Lasyusha": {
+    "overrides": {
+      "": {
+        "Transform": {
+          "m_LocalScale.x": "0.95",
+          "m_LocalScale.y": "0.95",
+          "m_LocalScale.z": "0.95",
+          "m_LocalPosition.x": "0",
+          "m_LocalPosition.y": "1.4687766",
+          "m_LocalPosition.z": "0.0013549998",
+          "m_LocalRotation.y": "0",
+          "m_LocalRotation.z": "0"
+        }
+      }
+    }
+  },
+  "Lazuli": {
+    "overrides": {
+      "": {
+        "Transform": {
+          "m_LocalScale.x": "1.02",
+          "m_LocalScale.y": "1.02",
+          "m_LocalScale.z": "1.02",
+          "m_LocalPosition.x": "0",
+          "m_LocalPosition.y": "1.2802765",
+          "m_LocalPosition.z": "-0.014444999",
+          "m_LocalRotation.y": "0",
+          "m_LocalRotation.z": "0"
+        }
+      }
+    }
+  },
+  "Liloumois": {
+    "overrides": {
+      "": {
+        "Transform": {
+          "m_LocalScale.x": "1.08",
+          "m_LocalScale.y": "1.08",
+          "m_LocalScale.z": "1.08",
+          "m_LocalPosition.x": "0",
+          "m_LocalPosition.y": "1.3989766",
+          "m_LocalPosition.z": "-0.008745",
+          "m_LocalRotation.y": "0",
+          "m_LocalRotation.z": "0"
+        }
+      }
+    }
+  },
+  "Lime": {
+    "overrides": {
+      "": {
+        "Transform": {
+          "m_LocalPosition.x": "0",
+          "m_LocalPosition.y": "1.1945766",
+          "m_LocalPosition.z": "-0.027645",
+          "m_LocalRotation.y": "0",
+          "m_LocalRotation.z": "0"
+        }
+      }
+    }
+  },
+  "Luchika": {
+    "overrides": {
+      "": {
+        "Transform": {
+          "m_LocalScale.x": "1.1",
+          "m_LocalScale.y": "1.1",
+          "m_LocalScale.z": "1.1",
+          "m_LocalPosition.x": "0",
+          "m_LocalPosition.y": "1.1989765",
+          "m_LocalPosition.z": "0.0021550003",
+          "m_LocalRotation.y": "0",
+          "m_LocalRotation.z": "0"
+        }
+      }
+    }
+  },
+  "Lumelana": {
+    "overrides": {
+      "": {
+        "Transform": {
+          "m_LocalScale.x": "1.15",
+          "m_LocalScale.y": "1.15",
+          "m_LocalScale.z": "1.15",
+          "m_LocalPosition.x": "0",
+          "m_LocalPosition.y": "0.82057655",
+          "m_LocalPosition.z": "-0.0038449988",
+          "m_LocalRotation.y": "0",
+          "m_LocalRotation.z": "0"
+        }
+      }
+    }
+  },
+  "Lumina": {
+    "overrides": {
+      "": {
+        "Transform": {
+          "m_LocalScale.x": "0.92",
+          "m_LocalScale.y": "0.92",
+          "m_LocalScale.z": "0.92",
+          "m_LocalPosition.x": "0",
+          "m_LocalPosition.y": "1.2944766",
+          "m_LocalPosition.z": "0.005155001",
+          "m_LocalRotation.y": "0",
+          "m_LocalRotation.z": "0"
+        }
+      }
+    }
+  },
+  "Lunalitt": {
+    "overrides": {
+      "": {
+        "Transform": {
+          "m_LocalScale.x": "0.98",
+          "m_LocalScale.y": "0.98",
+          "m_LocalScale.z": "0.98",
+          "m_LocalPosition.x": "0",
+          "m_LocalPosition.y": "1.1740766",
+          "m_LocalPosition.z": "0.010955",
+          "m_LocalRotation.y": "0",
+          "m_LocalRotation.z": "0"
+        }
+      }
+    }
+  },
+  "Lzebul": {
+    "overrides": {
+      "": {
+        "Transform": {
+          "m_LocalPosition.x": "0",
+          "m_LocalPosition.y": "1.2509766",
+          "m_LocalPosition.z": "-0.0021449998",
+          "m_LocalRotation.y": "0",
+          "m_LocalRotation.z": "0"
+        }
+      }
+    }
+  },
+  "Mafuyu": {
+    "overrides": {
+      "": {
+        "Transform": {
+          "m_LocalPosition.x": "0",
+          "m_LocalPosition.y": "1.1996766",
+          "m_LocalPosition.z": "-0.0022449996",
+          "m_LocalRotation.y": "0",
+          "m_LocalRotation.z": "0"
+        }
+      }
+    }
+  },
+  "Mamehinata": {
+    "overrides": {
+      "": {
+        "Transform": {
+          "m_LocalScale.x": "1.15",
+          "m_LocalScale.y": "1.15",
+          "m_LocalScale.z": "1.15",
+          "m_LocalPosition.x": "0",
+          "m_LocalPosition.y": "0.7032766",
+          "m_LocalPosition.z": "0.005055001",
+          "m_LocalRotation.y": "0",
+          "m_LocalRotation.z": "0"
+        }
+      }
+    }
+  },
+  "Manuka": {
+    "overrides": {
+      "": {
+        "Transform": {
+          "m_LocalPosition.x": "0",
+          "m_LocalPosition.y": "1.1570766",
+          "m_LocalPosition.z": "0.010454999",
+          "m_LocalRotation.y": "0",
+          "m_LocalRotation.z": "0"
+        }
+      }
+    }
+  },
+  "Mao": {
+    "overrides": {
+      "": {
+        "ModularAvatarBoneProxy": {
+          "attachmentMode": "2"
+        },
+        "Transform": {
+          "m_LocalScale.x": "1.1",
+          "m_LocalScale.y": "1.03",
+          "m_LocalScale.z": "1.03",
+          "m_LocalPosition.x": "0",
+          "m_LocalPosition.y": "1.3905766",
+          "m_LocalPosition.z": "0.0197",
+          "m_LocalRotation.y": "0",
+          "m_LocalRotation.z": "0"
+        }
+      },
+      "/Hair_BackSide": {
+        "SkinnedMeshRenderer": {
+          "blendShape.BackSide: ExpandDepth": "16.4",
+          "blendShape.BackSide: ExpandHeight": "19.5",
+          "blendShape.BackSide: MoveBraidStartBackward": "21.2"
+        }
+      },
+      "/Hair_Tails": {
+        "SkinnedMeshRenderer": {
+          "blendShape.Tails: MoveBackward": "31.6",
+          "blendShape.Tails: MoveDownward": "33.5"
+        }
+      },
+      "/Hair": {
+        "Transform": {
+          "m_LocalPosition.z": "-0.0261"
+        },
+        "SkinnedMeshRenderer": {
+          "blendShape.BackSide: ExpandDepth": "16.4",
+          "blendShape.BackSide: ExpandHeight": "19.5",
+          "blendShape.BackSide: MoveBraidStartBackward": "21.2",
+          "blendShape.Tails: MoveBackward": "31.6",
+          "blendShape.Tails: MoveDownward": "33.5"
+        }
+      }
+    }
+  },
+  "Marycia": {
+    "overrides": {
+      "": {
+        "Transform": {
+          "m_LocalScale.x": "0.9",
+          "m_LocalScale.y": "0.9",
+          "m_LocalScale.z": "0.9",
+          "m_LocalPosition.x": "0",
+          "m_LocalPosition.y": "1.1784766",
+          "m_LocalPosition.z": "0.0059550013",
+          "m_LocalRotation.y": "0",
+          "m_LocalRotation.z": "0"
+        }
+      }
+    }
+  },
+  "Maya": {
+    "overrides": {
+      "": {
+        "Transform": {
+          "m_LocalScale.x": "1.03",
+          "m_LocalScale.y": "1.03",
+          "m_LocalScale.z": "1.03",
+          "m_LocalPosition.x": "0",
+          "m_LocalPosition.y": "1.1774765",
+          "m_LocalPosition.z": "0.043755002",
+          "m_LocalRotation.y": "0",
+          "m_LocalRotation.z": "0"
+        }
+      }
+    }
+  },
+  "Meiyun": {
+    "overrides": {
+      "": {
+        "Transform": {
+          "m_LocalScale.x": "0.96",
+          "m_LocalScale.y": "0.96",
+          "m_LocalScale.z": "0.96",
+          "m_LocalPosition.x": "0",
+          "m_LocalPosition.y": "1.0843766",
+          "m_LocalPosition.z": "0.0009550005",
+          "m_LocalRotation.y": "0",
+          "m_LocalRotation.z": "0"
+        }
+      }
+    }
+  },
+  "Milfy": {
+    "overrides": {
+      "": {
+        "Transform": {
+          "m_LocalScale.x": "0.95",
+          "m_LocalScale.y": "0.95",
+          "m_LocalScale.z": "0.95",
+          "m_LocalPosition.x": "0",
+          "m_LocalPosition.y": "1.1491766",
+          "m_LocalPosition.z": "0.0015550014",
+          "m_LocalRotation.y": "0",
+          "m_LocalRotation.z": "0"
+        }
+      }
+    }
+  },
+  "Milk": {
+    "overrides": {
+      "": {
+        "Transform": {
+          "m_LocalPosition.x": "0",
+          "m_LocalPosition.y": "0.9615766",
+          "m_LocalPosition.z": "-0.018445",
+          "m_LocalRotation.y": "0",
+          "m_LocalRotation.z": "0"
+        }
+      }
+    }
+  },
+  "Milltina": {
+    "overrides": {
+      "": {
+        "ModularAvatarBoneProxy": {
+          "attachmentMode": "2"
+        },
+        "Transform": {
+          "m_LocalScale.x": "0.96",
+          "m_LocalScale.y": "0.96",
+          "m_LocalScale.z": "0.96",
+          "m_LocalPosition.x": "0",
+          "m_LocalPosition.y": "1.0811765",
+          "m_LocalPosition.z": "0.006655",
+          "m_LocalRotation.y": "0",
+          "m_LocalRotation.z": "0"
+        }
+      },
+      "/Hair_BackSide": {
+        "SkinnedMeshRenderer": {
+          "blendShape.BackSide: MoveNapeHairBackward": "44.2"
+        }
+      },
+      "/Hair": {
+        "SkinnedMeshRenderer": {
+          "blendShape.BackSide: MoveNapeHairBackward": "44.2"
+        }
+      }
+    }
+  },
+  "Mizuki": {
+    "overrides": {
+      "": {
+        "Transform": {
+          "m_LocalScale.x": "1.04",
+          "m_LocalScale.y": "1.04",
+          "m_LocalScale.z": "1.04",
+          "m_LocalPosition.x": "0",
+          "m_LocalPosition.y": "1.3207766",
+          "m_LocalPosition.z": "0.027955001",
+          "m_LocalRotation.y": "0",
+          "m_LocalRotation.z": "0"
+        }
+      }
+    }
+  },
+  "Moe": {
+    "overrides": {
+      "": {
+        "Transform": {
+          "m_LocalScale.x": "1.03",
+          "m_LocalScale.y": "1.03",
+          "m_LocalScale.z": "1.03",
+          "m_LocalPosition.x": "0",
+          "m_LocalPosition.y": "1.2788765",
+          "m_LocalPosition.z": "0.017655002",
+          "m_LocalRotation.y": "0",
+          "m_LocalRotation.z": "0"
+        }
+      }
+    }
+  },
+  "Mumus": {
+    "overrides": {
+      "": {
+        "Transform": {
+          "m_LocalScale.x": "0.86",
+          "m_LocalScale.y": "0.86",
+          "m_LocalScale.z": "0.86",
+          "m_LocalPosition.x": "0",
+          "m_LocalPosition.y": "1.1957766",
+          "m_LocalPosition.z": "0.011855001",
+          "m_LocalRotation.y": "0",
+          "m_LocalRotation.z": "0"
+        }
+      }
+    }
+  },
+  "Munkki": {
+    "overrides": {
+      "": {
+        "Transform": {
+          "m_LocalPosition.x": "0",
+          "m_LocalPosition.y": "1.2843766",
+          "m_LocalPosition.z": "0.010454999",
+          "m_LocalRotation.y": "0",
+          "m_LocalRotation.z": "0"
+        }
+      }
+    }
+  },
+  "Nagi": {
+    "overrides": {
+      "": {
+        "Transform": {
+          "m_LocalScale.x": "0.9",
+          "m_LocalScale.y": "0.9",
+          "m_LocalScale.z": "0.9",
+          "m_LocalPosition.x": "0",
+          "m_LocalPosition.y": "1.2143766",
+          "m_LocalPosition.z": "0.012455",
+          "m_LocalRotation.y": "0",
+          "m_LocalRotation.z": "0"
+        }
+      }
+    }
+  },
+  "Nayu": {
+    "overrides": {
+      "": {
+        "Transform": {
+          "m_LocalScale.x": "1.04",
+          "m_LocalScale.y": "1.04",
+          "m_LocalScale.z": "1.04",
+          "m_LocalPosition.x": "0",
+          "m_LocalPosition.y": "1.2231766",
+          "m_LocalPosition.z": "0.0065550003",
+          "m_LocalRotation.y": "0",
+          "m_LocalRotation.z": "0"
+        }
+      }
+    }
+  },
+  "Nemesis": {
+    "overrides": {
+      "": {
+        "Transform": {
+          "m_LocalScale.x": "0.98",
+          "m_LocalScale.y": "0.98",
+          "m_LocalScale.z": "0.98",
+          "m_LocalPosition.x": "0",
+          "m_LocalPosition.y": "0.68237656",
+          "m_LocalPosition.z": "-0.021945",
+          "m_LocalRotation.y": "0",
+          "m_LocalRotation.z": "0"
+        }
+      }
+    }
+  },
+  "Nochica": {
+    "overrides": {
+      "": {
+        "Transform": {
+          "m_LocalPosition.x": "0",
+          "m_LocalPosition.y": "0.7489766",
+          "m_LocalPosition.z": "-0.032145",
+          "m_LocalRotation.y": "0",
+          "m_LocalRotation.z": "0"
+        }
+      }
+    }
+  },
+  "Nozomi": {
+    "overrides": {
+      "": {
+        "Transform": {
+          "m_LocalScale.x": "1.03",
+          "m_LocalScale.y": "1.03",
+          "m_LocalScale.z": "1.03",
+          "m_LocalPosition.x": "0",
+          "m_LocalPosition.y": "1.2311766",
+          "m_LocalPosition.z": "0.021855002",
+          "m_LocalRotation.y": "0",
+          "m_LocalRotation.z": "0"
+        }
+      }
+    }
+  },
+  "Perula": {
+    "overrides": {
+      "": {
+        "Transform": {
+          "m_LocalScale.x": "1.04",
+          "m_LocalScale.y": "1.04",
+          "m_LocalScale.z": "1.04",
+          "m_LocalPosition.x": "0",
+          "m_LocalPosition.y": "1.2096766",
+          "m_LocalPosition.z": "-0.0105449995",
+          "m_LocalRotation.y": "0",
+          "m_LocalRotation.z": "0"
+        }
+      }
+    }
+  },
+  "Phi": {
+    "overrides": {
+      "": {
+        "Transform": {
+          "m_LocalPosition.x": "0",
+          "m_LocalPosition.y": "1.2295766",
+          "m_LocalPosition.z": "-0.009945",
+          "m_LocalRotation.y": "0",
+          "m_LocalRotation.z": "0"
+        }
+      }
+    }
+  },
+  "Plum": {
+    "overrides": {
+      "": {
+        "Transform": {
+          "m_LocalScale.x": "1.02",
+          "m_LocalScale.y": "1.02",
+          "m_LocalScale.z": "1.02",
+          "m_LocalPosition.x": "0",
+          "m_LocalPosition.y": "1.1218766",
+          "m_LocalPosition.z": "-0.035545",
+          "m_LocalRotation.y": "0",
+          "m_LocalRotation.z": "0"
+        }
+      }
+    }
+  },
+  "Pmma": {
+    "overrides": {
+      "": {
+        "ModularAvatarBoneProxy": {
+          "attachmentMode": "2"
+        },
+        "Transform": {
+          "m_LocalScale.x": "0.8",
+          "m_LocalScale.y": "0.8",
+          "m_LocalScale.z": "0.8",
+          "m_LocalPosition.x": "0",
+          "m_LocalPosition.y": "0.9597",
+          "m_LocalPosition.z": "0.0083",
+          "m_LocalRotation.y": "0",
+          "m_LocalRotation.z": "0"
+        }
+      },
+      "/Hair_BackSide": {
+        "SkinnedMeshRenderer": {
+          "blendShape.BackSide: MoveNapeHairBackward": "62.9",
+          "blendShape.BackSide: MoveNapeHairUpward": "16.3"
+        }
+      },
+      "/Hair": {
+        "SkinnedMeshRenderer": {
+          "blendShape.BackSide: MoveNapeHairBackward": "62.9",
+          "blendShape.BackSide: MoveNapeHairUpward": "16.3",
+          "blendShape.Tails: ExpandHeight": "0",
+          "blendShape.Bangs: MoveUpward": "0"
+        }
+      }
+    }
+  },
+  "RadDoll": {
+    "overrides": {
+      "": {
+        "Transform": {
+          "m_LocalScale.x": "0.96",
+          "m_LocalScale.y": "0.96",
+          "m_LocalScale.z": "0.96",
+          "m_LocalPosition.x": "0",
+          "m_LocalPosition.y": "1.1067766",
+          "m_LocalPosition.z": "-0.028145",
+          "m_LocalRotation.y": "0",
+          "m_LocalRotation.z": "0"
+        }
+      }
+    }
+  },
+  "Ramune": {
+    "overrides": {
+      "": {
+        "Transform": {
+          "m_LocalScale.x": "0.97",
+          "m_LocalScale.y": "0.97",
+          "m_LocalScale.z": "0.97",
+          "m_LocalPosition.x": "0",
+          "m_LocalPosition.y": "1.1810765",
+          "m_LocalPosition.z": "0.007855",
+          "m_LocalRotation.y": "0",
+          "m_LocalRotation.z": "0"
+        }
+      }
+    }
+  },
+  "Rinasciita": {
+    "overrides": {
+      "": {
+        "Transform": {
+          "m_LocalScale.x": "0.96",
+          "m_LocalScale.y": "0.96",
+          "m_LocalScale.z": "0.96",
+          "m_LocalPosition.x": "0",
+          "m_LocalPosition.y": "1.1951766",
+          "m_LocalPosition.z": "-0.004145",
+          "m_LocalRotation.y": "0",
+          "m_LocalRotation.z": "0"
+        }
+      }
+    }
+  },
+  "Rindo": {
+    "overrides": {
+      "": {
+        "Transform": {
+          "m_LocalScale.x": "0.97",
+          "m_LocalScale.y": "0.97",
+          "m_LocalScale.z": "0.97",
+          "m_LocalPosition.x": "0",
+          "m_LocalPosition.y": "1.1918765",
+          "m_LocalPosition.z": "0.008055",
+          "m_LocalRotation.y": "0",
+          "m_LocalRotation.z": "0"
+        }
+      }
+    }
+  },
+  "Ririka": {
+    "overrides": {
+      "": {
+        "Transform": {
+          "m_LocalScale.x": "1.03",
+          "m_LocalScale.y": "1.03",
+          "m_LocalScale.z": "1.03",
+          "m_LocalPosition.x": "0",
+          "m_LocalPosition.y": "1.1144766",
+          "m_LocalPosition.z": "0.0074550007",
+          "m_LocalRotation.y": "0",
+          "m_LocalRotation.z": "0"
+        }
+      }
+    }
+  },
+  "Rurune": {
+    "overrides": {
+      "": {
+        "Transform": {
+          "m_LocalScale.x": "1.04",
+          "m_LocalScale.y": "1.04",
+          "m_LocalScale.z": "1.04",
+          "m_LocalPosition.x": "0",
+          "m_LocalPosition.y": "1.2558765",
+          "m_LocalPosition.z": "0.027655",
+          "m_LocalRotation.y": "0",
+          "m_LocalRotation.z": "0"
+        }
+      }
+    }
+  },
+  "Rushka": {
+    "overrides": {
+      "": {
+        "Transform": {
+          "m_LocalScale.x": "1.04",
+          "m_LocalScale.y": "1.04",
+          "m_LocalScale.z": "1.04",
+          "m_LocalPosition.x": "0",
+          "m_LocalPosition.y": "1.1681765",
+          "m_LocalPosition.z": "-0.0018450003",
+          "m_LocalRotation.y": "0",
+          "m_LocalRotation.z": "0"
+        }
+      }
+    }
+  },
+  "Rusk": {
+    "overrides": {
+      "": {
+        "ModularAvatarBoneProxy": {
+          "attachmentMode": "2"
+        },
+        "Transform": {
+          "m_LocalScale.x": "1.04",
+          "m_LocalScale.y": "1.02",
+          "m_LocalScale.z": "1.02",
+          "m_LocalPosition.x": "0",
+          "m_LocalPosition.y": "1.0696765",
+          "m_LocalPosition.z": "-0.0105",
+          "m_LocalRotation.y": "0",
+          "m_LocalRotation.z": "0"
+        }
+      },
+      "/Hair_BackSide": {
+        "SkinnedMeshRenderer": {
+          "blendShape.BackSide: MoveBraidStartDownward": "27.1"
+        }
+      },
+      "/Hair": {
+        "SkinnedMeshRenderer": {
+          "blendShape.BackSide: MoveBraidStartDownward": "27.1"
+        }
+      }
+    }
+  },
+  "Selestia": {
+    "overrides": {
+      "": {
+        "Transform": {
+          "m_LocalPosition.x": "0",
+          "m_LocalPosition.y": "1.1809766",
+          "m_LocalPosition.z": "0.013855001",
+          "m_LocalRotation.y": "0",
+          "m_LocalRotation.z": "0"
+        }
+      }
+    }
+  },
+  "Shinano": {
+    "overrides": {
+      "": {
+        "ModularAvatarBoneProxy": {
+          "attachmentMode": "2"
+        },
+        "Transform": {
+          "m_LocalScale.x": "0.98",
+          "m_LocalScale.y": "0.98",
+          "m_LocalScale.z": "0.98",
+          "m_LocalPosition.x": "0",
+          "m_LocalPosition.y": "1.2064",
+          "m_LocalPosition.z": "0.0098",
+          "m_LocalRotation.y": "0",
+          "m_LocalRotation.z": "0",
+          "m_ConstrainProportionsScale": "1"
+        }
+      },
+      "/Hair_BackSide": {
+        "SkinnedMeshRenderer": {
+          "blendShape.BackSide: MoveNapeHairBackward": "38.2"
+        }
+      },
+      "/Hair": {
+        "SkinnedMeshRenderer": {
+          "blendShape.BackSide: MoveNapeHairBackward": "38.2"
+        }
+      }
+    }
+  },
+  "Shinra": {
+    "overrides": {
+      "": {
+        "Transform": {
+          "m_LocalScale.x": "0.95",
+          "m_LocalScale.y": "0.95",
+          "m_LocalScale.z": "0.95",
+          "m_LocalPosition.x": "0",
+          "m_LocalPosition.y": "1.3575766",
+          "m_LocalPosition.z": "0.0058549996",
+          "m_LocalRotation.y": "0",
+          "m_LocalRotation.z": "0"
+        }
+      }
+    }
+  },
+  "Shipilka": {
+    "overrides": {
+      "": {
+        "ModularAvatarBoneProxy": {
+          "attachmentMode": "2"
+        },
+        "Transform": {
+          "m_LocalScale.x": "1.15",
+          "m_LocalScale.y": "1.15",
+          "m_LocalScale.z": "1.15",
+          "m_LocalPosition.x": "0",
+          "m_LocalPosition.y": "1.0503",
+          "m_LocalPosition.z": "0.021255",
+          "m_LocalRotation.y": "0",
+          "m_LocalRotation.z": "0",
+          "m_ConstrainProportionsScale": "1"
+        }
+      },
+      "/Hair_BackSide": {
+        "SkinnedMeshRenderer": {
+          "blendShape.BackSide: HideEarHair": "100"
+        }
+      },
+      "/Hair": {
+        "Transform": {
+          "m_LocalPosition.y": "-0.0171",
+          "m_LocalPosition.z": "-0.0086"
+        },
+        "SkinnedMeshRenderer": {
+          "blendShape.BackSide: HideEarHair": "100"
+        }
+      }
+    }
+  },
+  "Shiratsume": {
+    "overrides": {
+      "": {
+        "Transform": {
+          "m_LocalScale.x": "1.06",
+          "m_LocalScale.y": "1.06",
+          "m_LocalScale.z": "1.06",
+          "m_LocalPosition.x": "0",
+          "m_LocalPosition.y": "1.1374766",
+          "m_LocalPosition.z": "-0.012545",
+          "m_LocalRotation.y": "0",
+          "m_LocalRotation.z": "0"
+        }
+      }
+    }
+  },
+  "Shizuku": {
+    "overrides": {
+      "": {
+        "Transform": {
+          "m_LocalScale.x": "1.13",
+          "m_LocalScale.y": "1.13",
+          "m_LocalScale.z": "1.13",
+          "m_LocalPosition.x": "0",
+          "m_LocalPosition.y": "1.4085766",
+          "m_LocalPosition.z": "0.007855",
+          "m_LocalRotation.y": "0",
+          "m_LocalRotation.z": "0"
+        }
+      }
+    }
+  },
+  "Shuan": {
+    "overrides": {
+      "": {
+        "Transform": {
+          "m_LocalScale.x": "0.85",
+          "m_LocalScale.y": "0.85",
+          "m_LocalScale.z": "0.85",
+          "m_LocalPosition.x": "0",
+          "m_LocalPosition.y": "1.3617766",
+          "m_LocalPosition.z": "-0.0045449995",
+          "m_LocalRotation.y": "0",
+          "m_LocalRotation.z": "0"
+        }
+      }
+    }
+  },
+  "Sio": {
+    "overrides": {
+      "": {
+        "ModularAvatarBoneProxy": {
+          "attachmentMode": "2"
+        },
+        "Transform": {
+          "m_LocalScale.x": "0.9",
+          "m_LocalScale.y": "0.9",
+          "m_LocalScale.z": "0.9",
+          "m_LocalPosition.x": "0",
+          "m_LocalPosition.y": "1.2681",
+          "m_LocalPosition.z": "-0.018",
+          "m_LocalRotation.y": "0",
+          "m_LocalRotation.z": "0",
+          "m_ConstrainProportionsScale": "1"
+        }
+      },
+      "/Hair_BackSide": {
+        "SkinnedMeshRenderer": {
+          "blendShape.BackSide: ShrinkWidth": "-2.64",
+          "blendShape.BackSide: MoveBraidStartDownward": "31.8",
+          "blendShape.BackSide: MoveNapeHairBackward": "42.7"
+        }
+      },
+      "/Hair": {
+        "SkinnedMeshRenderer": {
+          "blendShape.BackSide: ShrinkWidth": "-2.64",
+          "blendShape.BackSide: MoveBraidStartDownward": "31.8",
+          "blendShape.BackSide: MoveNapeHairBackward": "42.7",
+          "blendShape.Bangs: MoveUpward": "0"
+        }
+      }
+    }
+  },
+  "Sophina": {
+    "overrides": {
+      "": {
+        "Transform": {
+          "m_LocalScale.x": "0.92",
+          "m_LocalScale.y": "0.92",
+          "m_LocalScale.z": "0.92",
+          "m_LocalPosition.x": "0",
+          "m_LocalPosition.y": "1.2407765",
+          "m_LocalPosition.z": "-0.023745",
+          "m_LocalRotation.y": "0",
+          "m_LocalRotation.z": "0"
+        }
+      }
+    }
+  },
+  "Soraha": {
+    "overrides": {
+      "/Hair": {
+        "Transform": {
+          "m_LocalPosition.y": "-0.0103",
+          "m_LocalPosition.z": "0.0079"
+        }
+      },
+      "": {
+        "Transform": {
+          "m_LocalPosition.x": "0",
+          "m_LocalPosition.y": "1.0362766",
+          "m_LocalPosition.z": "0.029455",
+          "m_LocalRotation.y": "0",
+          "m_LocalRotation.z": "0"
+        }
+      }
+    }
+  },
+  "Sue": {
+    "overrides": {
+      "": {
+        "Transform": {
+          "m_LocalScale.x": "1.04",
+          "m_LocalScale.y": "1.04",
+          "m_LocalScale.z": "1.04",
+          "m_LocalPosition.x": "0",
+          "m_LocalPosition.y": "1.2574766",
+          "m_LocalPosition.z": "-0.004345",
+          "m_LocalRotation.y": "0",
+          "m_LocalRotation.z": "0"
+        }
+      }
+    }
+  },
+  "Tsuyuna": {
+    "overrides": {
+      "": {
+        "ModularAvatarBoneProxy": {
+          "attachmentMode": "2"
+        },
+        "Transform": {
+          "m_LocalScale.x": "0.88",
+          "m_LocalScale.y": "0.88",
+          "m_LocalScale.z": "0.88",
+          "m_LocalPosition.x": "0",
+          "m_LocalPosition.y": "0.9355",
+          "m_LocalPosition.z": "0.0108",
+          "m_LocalRotation.y": "0",
+          "m_LocalRotation.z": "0",
+          "m_ConstrainProportionsScale": "1"
+        }
+      },
+      "/Hair_SideBangs": {
+        "SkinnedMeshRenderer": {
+          "blendShape.SideBangs: ExpandWidth": "13.1"
+        }
+      },
+      "/Hair_BackSide": {
+        "SkinnedMeshRenderer": {
+          "blendShape.BackSide: ExpandWidth": "16.3"
+        }
+      },
+      "/Hair": {
+        "SkinnedMeshRenderer": {
+          "blendShape.SideBangs: ExpandWidth": "13.1",
+          "blendShape.BackSide: ExpandWidth": "16.3"
+        }
+      }
+    }
+  },
+  "Yoll": {
+    "overrides": {
+      "": {
+        "Transform": {
+          "m_LocalScale.x": "1.14",
+          "m_LocalScale.y": "1.14",
+          "m_LocalScale.z": "1.14",
+          "m_LocalPosition.x": "0",
+          "m_LocalPosition.y": "1.4353765",
+          "m_LocalPosition.z": "0.042655006",
+          "m_LocalRotation.y": "0",
+          "m_LocalRotation.z": "0"
+        }
+      }
+    }
+  },
+  "Yrisphere": {
+    "overrides": {
+      "": {
+        "Transform": {
+          "m_LocalPosition.x": "0",
+          "m_LocalPosition.y": "1.1851766",
+          "m_LocalPosition.z": "0.016154999",
+          "m_LocalRotation.y": "0",
+          "m_LocalRotation.z": "0"
+        }
+      }
+    }
+  },
+  "Zange": {
+    "overrides": {
+      "": {
+        "Transform": {
+          "m_LocalScale.x": "0.99",
+          "m_LocalScale.y": "0.99",
+          "m_LocalScale.z": "0.99",
+          "m_LocalPosition.x": "0",
+          "m_LocalPosition.y": "1.4330766",
+          "m_LocalPosition.z": "0.016455",
+          "m_LocalRotation.y": "0",
+          "m_LocalRotation.z": "0"
+        }
+      }
+    }
+  },
+  "Zome": {
+    "overrides": {
+      "": {
+        "Transform": {
+          "m_LocalScale.x": "1.05",
+          "m_LocalScale.y": "1.05",
+          "m_LocalScale.z": "1.05",
+          "m_LocalPosition.x": "0",
+          "m_LocalPosition.y": "1.2490766",
+          "m_LocalPosition.z": "-0.013944999",
+          "m_LocalRotation.y": "0",
+          "m_LocalRotation.z": "0"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,21 @@
+﻿{
+  "overrides": {
+    "/Hair": {
+      "Transform": {
+        "m_LocalPosition.z": "0.0009"
+      },
+      "SkinnedMeshRenderer": {
+        "blendShape.Bangs: MoveUpward": "0"
+      }
+    },
+    "": {
+      "Transform": {
+        "m_LocalPosition.x": "0",
+        "m_LocalPosition.y": "1.1387765",
+        "m_LocalPosition.z": "0.014755001",
+        "m_LocalRotation.y": "0",
+        "m_LocalRotation.z": "0"
+      }
+    }
+  }
+}

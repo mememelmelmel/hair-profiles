@@ -1,0 +1,44 @@
+﻿{
+  "overrides": {
+    "": {
+      "ModularAvatarBoneProxy": {
+        "attachmentMode": "2"
+      },
+      "Transform": {
+        "m_LocalScale.x": "1.1",
+        "m_LocalScale.y": "1.03",
+        "m_LocalScale.z": "1.03",
+        "m_LocalPosition.x": "0",
+        "m_LocalPosition.y": "1.3905766",
+        "m_LocalPosition.z": "0.0197",
+        "m_LocalRotation.y": "0",
+        "m_LocalRotation.z": "0"
+      }
+    },
+    "/Hair_BackSide": {
+      "SkinnedMeshRenderer": {
+        "blendShape.BackSide: ExpandDepth": "16.4",
+        "blendShape.BackSide: ExpandHeight": "19.5",
+        "blendShape.BackSide: MoveBraidStartBackward": "21.2"
+      }
+    },
+    "/Hair_Tails": {
+      "SkinnedMeshRenderer": {
+        "blendShape.Tails: MoveBackward": "31.6",
+        "blendShape.Tails: MoveDownward": "33.5"
+      }
+    },
+    "/Hair": {
+      "Transform": {
+        "m_LocalPosition.z": "-0.0261"
+      },
+      "SkinnedMeshRenderer": {
+        "blendShape.BackSide: ExpandDepth": "16.4",
+        "blendShape.BackSide: ExpandHeight": "19.5",
+        "blendShape.BackSide: MoveBraidStartBackward": "21.2",
+        "blendShape.Tails: MoveBackward": "31.6",
+        "blendShape.Tails: MoveDownward": "33.5"
+      }
+    }
+  }
+}

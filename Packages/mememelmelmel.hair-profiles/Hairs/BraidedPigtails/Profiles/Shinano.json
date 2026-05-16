@@ -1,0 +1,30 @@
+﻿{
+  "overrides": {
+    "": {
+      "ModularAvatarBoneProxy": {
+        "attachmentMode": "2"
+      },
+      "Transform": {
+        "m_LocalScale.x": "0.98",
+        "m_LocalScale.y": "0.98",
+        "m_LocalScale.z": "0.98",
+        "m_LocalPosition.x": "0",
+        "m_LocalPosition.y": "1.2064",
+        "m_LocalPosition.z": "0.0098",
+        "m_LocalRotation.y": "0",
+        "m_LocalRotation.z": "0",
+        "m_ConstrainProportionsScale": "1"
+      }
+    },
+    "/Hair_BackSide": {
+      "SkinnedMeshRenderer": {
+        "blendShape.BackSide: MoveNapeHairBackward": "38.2"
+      }
+    },
+    "/Hair": {
+      "SkinnedMeshRenderer": {
+        "blendShape.BackSide: MoveNapeHairBackward": "38.2"
+      }
+    }
+  }
+}

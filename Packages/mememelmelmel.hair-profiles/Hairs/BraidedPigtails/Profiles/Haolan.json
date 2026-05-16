@@ -1,0 +1,48 @@
+﻿{
+  "overrides": {
+    "": {
+      "ModularAvatarBoneProxy": {
+        "attachmentMode": "2"
+      },
+      "Transform": {
+        "m_LocalPosition.x": "0",
+        "m_LocalPosition.y": "1.0952766",
+        "m_LocalPosition.z": "0.025455",
+        "m_LocalRotation.y": "0",
+        "m_LocalRotation.z": "0"
+      }
+    },
+    "/Hair_SideBangs": {
+      "SkinnedMeshRenderer": {
+        "blendShape.SideBangs: MoveBackward": "13.6",
+        "blendShape.SideBangs: ExpandDepth": "20.8"
+      }
+    },
+    "/Hair_BackSide": {
+      "SkinnedMeshRenderer": {
+        "blendShape.BackSide: ExpandWidth": "12.3",
+        "blendShape.BackSide: ExpandDepth": "21.6",
+        "blendShape.BackSide: MoveBraidStartBackward": "35",
+        "blendShape.BackSide: MoveBraidStartDownward": "56.1"
+      }
+    },
+    "/Hair_Tails": {
+      "SkinnedMeshRenderer": {
+        "blendShape.Tails: MoveBackward": "24.7",
+        "blendShape.Tails: MoveDownward": "26.7"
+      }
+    },
+    "/Hair": {
+      "SkinnedMeshRenderer": {
+        "blendShape.SideBangs: MoveBackward": "13.6",
+        "blendShape.SideBangs: ExpandDepth": "20.8",
+        "blendShape.BackSide: ExpandWidth": "12.3",
+        "blendShape.BackSide: ExpandDepth": "21.6",
+        "blendShape.BackSide: MoveBraidStartBackward": "35",
+        "blendShape.BackSide: MoveBraidStartDownward": "56.1",
+        "blendShape.Tails: MoveBackward": "24.7",
+        "blendShape.Tails: MoveDownward": "26.7"
+      }
+    }
+  }
+}
