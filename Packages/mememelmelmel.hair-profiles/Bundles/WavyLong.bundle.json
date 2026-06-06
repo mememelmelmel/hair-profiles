@@ -16,6 +16,21 @@
       }
     }
   },
+  "Alue": {
+    "overrides": {
+      "": {
+        "Transform": {
+          "m_LocalPosition.x": "0",
+          "m_LocalPosition.y": "1.4065",
+          "m_LocalPosition.z": "-0.0068",
+          "m_LocalRotation.w": "1",
+          "m_LocalRotation.x": "0",
+          "m_LocalRotation.y": "0",
+          "m_LocalRotation.z": "0"
+        }
+      }
+    }
+  },
   "Anomea": {
     "overrides": {
       "": {
@@ -82,6 +97,21 @@
       }
     }
   },
+  "Cazalis": {
+    "overrides": {
+      "": {
+        "Transform": {
+          "m_LocalPosition.x": "-0",
+          "m_LocalPosition.y": "1.2553",
+          "m_LocalPosition.z": "-0.0089",
+          "m_LocalRotation.w": "1",
+          "m_LocalRotation.x": "0",
+          "m_LocalRotation.y": "-0",
+          "m_LocalRotation.z": "-0"
+        }
+      }
+    }
+  },
   "Chalo": {
     "overrides": {
       "": {
@@ -120,6 +150,59 @@
           "m_LocalPosition.z": "-0.028445",
           "m_LocalRotation.y": "0",
           "m_LocalRotation.z": "0"
+        }
+      }
+    }
+  },
+  "Ciel": {
+    "overrides": {
+      "": {
+        "Transform": {
+          "m_LocalScale.x": "1.08",
+          "m_LocalScale.y": "1.08",
+          "m_LocalScale.z": "1.08",
+          "m_LocalPosition.x": "0",
+          "m_LocalPosition.y": "1.1705",
+          "m_LocalPosition.z": "-0.0641",
+          "m_LocalRotation.w": "1",
+          "m_LocalRotation.x": "0",
+          "m_LocalRotation.y": "0",
+          "m_LocalRotation.z": "0",
+          "m_ConstrainProportionsScale": "1"
+        }
+      }
+    }
+  },
+  "Deltaflair": {
+    "overrides": {
+      "": {
+        "Transform": {
+          "m_LocalPosition.x": "0",
+          "m_LocalPosition.y": "1.1296",
+          "m_LocalPosition.z": "-0.0283",
+          "m_LocalRotation.w": "1",
+          "m_LocalRotation.x": "0",
+          "m_LocalRotation.y": "0",
+          "m_LocalRotation.z": "0"
+        }
+      }
+    }
+  },
+  "Eighteen": {
+    "overrides": {
+      "": {
+        "Transform": {
+          "m_LocalScale.x": "1.1",
+          "m_LocalScale.y": "1.1",
+          "m_LocalScale.z": "1.1",
+          "m_LocalPosition.x": "0",
+          "m_LocalPosition.y": "1.2917",
+          "m_LocalPosition.z": "0.0235",
+          "m_LocalRotation.w": "1",
+          "m_LocalRotation.x": "0",
+          "m_LocalRotation.y": "0",
+          "m_LocalRotation.z": "0",
+          "m_ConstrainProportionsScale": "1"
         }
       }
     }
@@ -187,6 +270,40 @@
       "/Hair_Bangs": {
         "SkinnedMeshRenderer": {
           "blendShape.Bangs: ShrinkDepth": "83.7"
+        }
+      }
+    }
+  },
+  "Fyuett": {
+    "overrides": {
+      "": {
+        "Transform": {
+          "m_LocalScale.x": "1.02",
+          "m_LocalScale.y": "1.02",
+          "m_LocalScale.z": "1.02",
+          "m_LocalPosition.x": "0",
+          "m_LocalPosition.y": "1.155",
+          "m_LocalPosition.z": "-0.015",
+          "m_LocalRotation.w": "1",
+          "m_LocalRotation.x": "0",
+          "m_LocalRotation.y": "0",
+          "m_LocalRotation.z": "0",
+          "m_ConstrainProportionsScale": "1"
+        }
+      }
+    }
+  },
+  "Haina": {
+    "overrides": {
+      "": {
+        "Transform": {
+          "m_LocalPosition.x": "0",
+          "m_LocalPosition.y": "1.09",
+          "m_LocalPosition.z": "0.008",
+          "m_LocalRotation.w": "1",
+          "m_LocalRotation.x": "0",
+          "m_LocalRotation.y": "0",
+          "m_LocalRotation.z": "0"
         }
       }
     }
@@ -261,6 +378,25 @@
       }
     }
   },
+  "Ichinose": {
+    "overrides": {
+      "": {
+        "Transform": {
+          "m_LocalScale.x": "1.03",
+          "m_LocalScale.y": "1.03",
+          "m_LocalScale.z": "1.03",
+          "m_LocalPosition.x": "0",
+          "m_LocalPosition.y": "0.5658",
+          "m_LocalPosition.z": "-0.0215",
+          "m_LocalRotation.w": "1",
+          "m_LocalRotation.x": "0",
+          "m_LocalRotation.y": "0",
+          "m_LocalRotation.z": "0",
+          "m_ConstrainProportionsScale": "1"
+        }
+      }
+    }
+  },
   "Karin": {
     "overrides": {
       "": {
@@ -318,6 +454,25 @@
       }
     }
   },
+  "Koyuki": {
+    "overrides": {
+      "": {
+        "Transform": {
+          "m_LocalScale.x": "1.14",
+          "m_LocalScale.y": "1.14",
+          "m_LocalScale.z": "1.14",
+          "m_LocalPosition.x": "0",
+          "m_LocalPosition.y": "1.1887",
+          "m_LocalPosition.z": "0.016",
+          "m_LocalRotation.w": "1",
+          "m_LocalRotation.x": "0",
+          "m_LocalRotation.y": "0",
+          "m_LocalRotation.z": "0",
+          "m_ConstrainProportionsScale": "1"
+        }
+      }
+    }
+  },
   "Kumaly": {
     "overrides": {
       "": {
@@ -353,6 +508,25 @@
           "m_LocalPosition.z": "0.053955004",
           "m_LocalRotation.y": "0",
           "m_LocalRotation.z": "0"
+        }
+      }
+    }
+  },
+  "Kyubi": {
+    "overrides": {
+      "": {
+        "Transform": {
+          "m_LocalScale.x": "1.1",
+          "m_LocalScale.y": "1.1",
+          "m_LocalScale.z": "1.1",
+          "m_LocalPosition.x": "0",
+          "m_LocalPosition.y": "1.1854",
+          "m_LocalPosition.z": "-0.0193",
+          "m_LocalRotation.w": "1",
+          "m_LocalRotation.x": "0",
+          "m_LocalRotation.y": "0",
+          "m_LocalRotation.z": "0",
+          "m_ConstrainProportionsScale": "1"
         }
       }
     }
@@ -396,6 +570,21 @@
           "m_LocalScale.z": "1.02",
           "m_LocalPosition.y": "1.2895",
           "m_LocalPosition.z": "-0.014444999",
+          "m_LocalRotation.y": "0",
+          "m_LocalRotation.z": "0"
+        }
+      }
+    }
+  },
+  "LethalFreet": {
+    "overrides": {
+      "": {
+        "Transform": {
+          "m_LocalPosition.x": "0",
+          "m_LocalPosition.y": "1.1176",
+          "m_LocalPosition.z": "-0.0328",
+          "m_LocalRotation.w": "1",
+          "m_LocalRotation.x": "0",
           "m_LocalRotation.y": "0",
           "m_LocalRotation.z": "0"
         }
@@ -485,6 +674,25 @@
           "m_LocalPosition.z": "0.010955",
           "m_LocalRotation.y": "0",
           "m_LocalRotation.z": "0"
+        }
+      }
+    }
+  },
+  "Lunary": {
+    "overrides": {
+      "": {
+        "Transform": {
+          "m_LocalScale.x": "0.9",
+          "m_LocalScale.y": "0.9",
+          "m_LocalScale.z": "0.9",
+          "m_LocalPosition.x": "0",
+          "m_LocalPosition.y": "1.0688",
+          "m_LocalPosition.z": "-0.0189",
+          "m_LocalRotation.w": "1",
+          "m_LocalRotation.x": "0",
+          "m_LocalRotation.y": "0",
+          "m_LocalRotation.z": "0",
+          "m_ConstrainProportionsScale": "1"
         }
       }
     }
@@ -598,6 +806,25 @@
       }
     }
   },
+  "Mayo": {
+    "overrides": {
+      "": {
+        "Transform": {
+          "m_LocalScale.x": "0.98",
+          "m_LocalScale.y": "0.98",
+          "m_LocalScale.z": "0.98",
+          "m_LocalPosition.x": "0",
+          "m_LocalPosition.y": "1.1769",
+          "m_LocalPosition.z": "0.028",
+          "m_LocalRotation.w": "1",
+          "m_LocalRotation.x": "0",
+          "m_LocalRotation.y": "0",
+          "m_LocalRotation.z": "0",
+          "m_ConstrainProportionsScale": "1"
+        }
+      }
+    }
+  },
   "Meiyun": {
     "overrides": {
       "": {
@@ -654,6 +881,44 @@
           "m_LocalPosition.z": "0.006655",
           "m_LocalRotation.y": "0",
           "m_LocalRotation.z": "0"
+        }
+      }
+    }
+  },
+  "Miminoko": {
+    "overrides": {
+      "": {
+        "Transform": {
+          "m_LocalScale.x": "1.15",
+          "m_LocalScale.y": "1.15",
+          "m_LocalScale.z": "1.15",
+          "m_LocalPosition.x": "0",
+          "m_LocalPosition.y": "0.727",
+          "m_LocalPosition.z": "-0.0143",
+          "m_LocalRotation.w": "1",
+          "m_LocalRotation.x": "0",
+          "m_LocalRotation.y": "0",
+          "m_LocalRotation.z": "0",
+          "m_ConstrainProportionsScale": "1"
+        }
+      }
+    }
+  },
+  "Misaki": {
+    "overrides": {
+      "": {
+        "Transform": {
+          "m_LocalScale.x": "0.9",
+          "m_LocalScale.y": "0.9",
+          "m_LocalScale.z": "0.9",
+          "m_LocalPosition.x": "0",
+          "m_LocalPosition.y": "1.4185",
+          "m_LocalPosition.z": "-0.0129",
+          "m_LocalRotation.w": "1",
+          "m_LocalRotation.x": "0",
+          "m_LocalRotation.y": "0",
+          "m_LocalRotation.z": "0",
+          "m_ConstrainProportionsScale": "1"
         }
       }
     }
@@ -730,6 +995,25 @@
       }
     }
   },
+  "Nanodevi": {
+    "overrides": {
+      "": {
+        "Transform": {
+          "m_LocalScale.x": "0.98",
+          "m_LocalScale.y": "0.98",
+          "m_LocalScale.z": "0.98",
+          "m_LocalPosition.x": "0",
+          "m_LocalPosition.y": "0.8406",
+          "m_LocalPosition.z": "0.0042",
+          "m_LocalRotation.w": "1",
+          "m_LocalRotation.x": "0",
+          "m_LocalRotation.y": "0",
+          "m_LocalRotation.z": "0",
+          "m_ConstrainProportionsScale": "1"
+        }
+      }
+    }
+  },
   "Nayu": {
     "overrides": {
       "": {
@@ -780,6 +1064,25 @@
           "m_LocalPosition.z": "0.0215",
           "m_LocalRotation.y": "0",
           "m_LocalRotation.z": "0"
+        }
+      }
+    }
+  },
+  "Papillon": {
+    "overrides": {
+      "": {
+        "Transform": {
+          "m_LocalScale.x": "0.87",
+          "m_LocalScale.y": "0.87",
+          "m_LocalScale.z": "0.87",
+          "m_LocalPosition.x": "0",
+          "m_LocalPosition.y": "1.0501",
+          "m_LocalPosition.z": "0.0435",
+          "m_LocalRotation.w": "1",
+          "m_LocalRotation.x": "0",
+          "m_LocalRotation.y": "0",
+          "m_LocalRotation.z": "0",
+          "m_ConstrainProportionsScale": "1"
         }
       }
     }
@@ -875,6 +1178,25 @@
       }
     }
   },
+  "RearAlice": {
+    "overrides": {
+      "": {
+        "Transform": {
+          "m_LocalScale.x": "1.06",
+          "m_LocalScale.y": "1.06",
+          "m_LocalScale.z": "1.06",
+          "m_LocalPosition.x": "0",
+          "m_LocalPosition.y": "1.1136",
+          "m_LocalPosition.z": "-0.0067",
+          "m_LocalRotation.w": "1",
+          "m_LocalRotation.x": "0",
+          "m_LocalRotation.y": "0",
+          "m_LocalRotation.z": "0",
+          "m_ConstrainProportionsScale": "1"
+        }
+      }
+    }
+  },
   "Rinasciita": {
     "overrides": {
       "": {
@@ -914,6 +1236,21 @@
           "m_LocalScale.z": "1.03",
           "m_LocalPosition.y": "1.1144766",
           "m_LocalPosition.z": "0.0074550007",
+          "m_LocalRotation.y": "0",
+          "m_LocalRotation.z": "0"
+        }
+      }
+    }
+  },
+  "Rumily": {
+    "overrides": {
+      "": {
+        "Transform": {
+          "m_LocalPosition.x": "0",
+          "m_LocalPosition.y": "1.1378",
+          "m_LocalPosition.z": "-0.0379",
+          "m_LocalRotation.w": "1",
+          "m_LocalRotation.x": "0",
           "m_LocalRotation.y": "0",
           "m_LocalRotation.z": "0"
         }
@@ -974,6 +1311,36 @@
       "/Hair_Bangs": {
         "SkinnedMeshRenderer": {
           "blendShape.Bangs: ExpandWidth": "41.6"
+        }
+      }
+    }
+  },
+  "Sanatia": {
+    "overrides": {
+      "": {
+        "Transform": {
+          "m_LocalPosition.x": "0",
+          "m_LocalPosition.y": "1.1922",
+          "m_LocalPosition.z": "0.0045",
+          "m_LocalRotation.w": "1",
+          "m_LocalRotation.x": "0",
+          "m_LocalRotation.y": "0",
+          "m_LocalRotation.z": "0"
+        }
+      }
+    }
+  },
+  "Sapphy": {
+    "overrides": {
+      "": {
+        "Transform": {
+          "m_LocalPosition.x": "0",
+          "m_LocalPosition.y": "1.2314",
+          "m_LocalPosition.z": "-0.0167",
+          "m_LocalRotation.w": "1",
+          "m_LocalRotation.x": "0",
+          "m_LocalRotation.y": "0",
+          "m_LocalRotation.z": "0"
         }
       }
     }
@@ -1160,6 +1527,21 @@
       }
     }
   },
+  "Suiha": {
+    "overrides": {
+      "": {
+        "Transform": {
+          "m_LocalPosition.x": "0",
+          "m_LocalPosition.y": "1.3047",
+          "m_LocalPosition.z": "0.0026",
+          "m_LocalRotation.w": "1",
+          "m_LocalRotation.x": "0",
+          "m_LocalRotation.y": "0",
+          "m_LocalRotation.z": "0"
+        }
+      }
+    }
+  },
   "Tsuyuna": {
     "overrides": {
       "": {
@@ -1184,6 +1566,59 @@
       "/Hair": {
         "SkinnedMeshRenderer": {
           "blendShape.BackSideLayer1: ExpandWidth": "57.5"
+        }
+      }
+    }
+  },
+  "Uruki": {
+    "overrides": {
+      "": {
+        "Transform": {
+          "m_LocalScale.x": "0.86",
+          "m_LocalScale.y": "0.86",
+          "m_LocalScale.z": "0.86",
+          "m_LocalPosition.x": "0",
+          "m_LocalPosition.y": "1.2068",
+          "m_LocalPosition.z": "0.0213",
+          "m_LocalRotation.w": "1",
+          "m_LocalRotation.x": "0",
+          "m_LocalRotation.y": "0",
+          "m_LocalRotation.z": "0",
+          "m_ConstrainProportionsScale": "1"
+        }
+      }
+    }
+  },
+  "Ururu": {
+    "overrides": {
+      "": {
+        "Transform": {
+          "m_LocalPosition.x": "0",
+          "m_LocalPosition.y": "1.2591",
+          "m_LocalPosition.z": "-0.0199",
+          "m_LocalRotation.w": "1",
+          "m_LocalRotation.x": "0",
+          "m_LocalRotation.y": "0",
+          "m_LocalRotation.z": "0"
+        }
+      }
+    }
+  },
+  "Wendy": {
+    "overrides": {
+      "": {
+        "Transform": {
+          "m_LocalScale.x": "0.97",
+          "m_LocalScale.y": "0.97",
+          "m_LocalScale.z": "0.97",
+          "m_LocalPosition.x": "0",
+          "m_LocalPosition.y": "1.2097",
+          "m_LocalPosition.z": "0.0009",
+          "m_LocalRotation.w": "1",
+          "m_LocalRotation.x": "0",
+          "m_LocalRotation.y": "0",
+          "m_LocalRotation.z": "0",
+          "m_ConstrainProportionsScale": "1"
         }
       }
     }
