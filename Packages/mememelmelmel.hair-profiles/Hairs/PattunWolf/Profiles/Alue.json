@@ -1,0 +1,14 @@
+﻿{
+  "overrides": {
+    "": {
+      "Transform": {
+        "m_LocalScale.x": "1.05",
+        "m_LocalScale.y": "1.05",
+        "m_LocalScale.z": "1.05",
+        "m_LocalPosition.y": "1.3379",
+        "m_LocalPosition.z": "0.0132",
+        "m_ConstrainProportionsScale": "1"
+      }
+    }
+  }
+}

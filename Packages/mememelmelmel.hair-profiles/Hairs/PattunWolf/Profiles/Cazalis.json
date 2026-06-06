@@ -1,0 +1,22 @@
+﻿{
+  "overrides": {
+    "/Hair": {
+      "SkinnedMeshRenderer": {
+        "blendShape.Bangs: ShrinkDepth": "56.2",
+        "blendShape.TopLayer: ShrinkDepth": "20",
+        "blendShape.Backside: ShrinkDepth": "20"
+      }
+    },
+    "": {
+      "Transform": {
+        "m_LocalPosition.x": "0",
+        "m_LocalPosition.y": "1.1869",
+        "m_LocalPosition.z": "0.0181",
+        "m_LocalRotation.w": "1",
+        "m_LocalRotation.x": "0",
+        "m_LocalRotation.y": "0",
+        "m_LocalRotation.z": "0"
+      }
+    }
+  }
+}

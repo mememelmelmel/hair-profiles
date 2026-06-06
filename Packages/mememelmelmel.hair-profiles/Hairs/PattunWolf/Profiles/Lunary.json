@@ -1,0 +1,19 @@
+﻿{
+  "overrides": {
+    "": {
+      "Transform": {
+        "m_LocalScale.x": "0.9269999",
+        "m_LocalScale.y": "0.9269999",
+        "m_LocalScale.z": "0.9269999",
+        "m_LocalPosition.y": "1.0056",
+        "m_LocalPosition.z": "0.009",
+        "m_ConstrainProportionsScale": "1"
+      }
+    },
+    "/Hair": {
+      "SkinnedMeshRenderer": {
+        "blendShape.Bangs: ShrinkDepth": "26.2"
+      }
+    }
+  }
+}
