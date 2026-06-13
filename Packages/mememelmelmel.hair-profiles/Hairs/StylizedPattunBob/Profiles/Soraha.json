@@ -1,0 +1,16 @@
+﻿{
+  "overrides": {
+    "": {
+      "Transform": {
+        "m_LocalPosition.y": "0.9780996",
+        "m_LocalPosition.z": "0.018800002"
+      }
+    },
+    "/Hair": {
+      "Transform": {
+        "m_LocalPosition.y": "-0.0103",
+        "m_LocalPosition.z": "0.0079"
+      }
+    }
+  }
+}

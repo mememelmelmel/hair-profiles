@@ -1,0 +1,16 @@
+﻿{
+  "overrides": {
+    "": {
+      "ModularAvatarBoneProxy": {
+        "attachmentMode": "2"
+      },
+      "Transform": {
+        "m_LocalScale.x": "0.8",
+        "m_LocalScale.y": "0.8",
+        "m_LocalScale.z": "0.8",
+        "m_LocalPosition.y": "0.9115",
+        "m_LocalPosition.z": "-0.002355"
+      }
+    }
+  }
+}

@@ -1,0 +1,20 @@
+﻿{
+  "overrides": {
+    "/Hair_BackSide": {
+      "SkinnedMeshRenderer": {
+        "blendShape.BackSide: ExpandDepth": "41.8"
+      }
+    },
+    "": {
+      "Transform": {
+        "m_LocalPosition.y": "1.0305231",
+        "m_LocalPosition.z": "0.043300003"
+      }
+    },
+    "/Hair": {
+      "SkinnedMeshRenderer": {
+        "blendShape.BackSide: ExpandDepth": "41.8"
+      }
+    }
+  }
+}

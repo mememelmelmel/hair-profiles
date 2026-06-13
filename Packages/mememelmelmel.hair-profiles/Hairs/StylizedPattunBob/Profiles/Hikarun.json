@@ -1,0 +1,10 @@
+﻿{
+  "overrides": {
+    "": {
+      "Transform": {
+        "m_LocalPosition.y": "0.599123",
+        "m_LocalPosition.z": "-0.028699998"
+      }
+    }
+  }
+}
