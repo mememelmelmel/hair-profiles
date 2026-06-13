@@ -15,6 +15,10 @@
     "name": "あのん",
     "itemUrl": "https://booth.pm/ja/items/3564947"
   },
+  "Aoico": {
+    "name": "aoico",
+    "itemUrl": "https://booth.pm/ja/items/2299745"
+  },
   "Ash": {
     "name": "アッシュ",
     "itemUrl": "https://booth.pm/ja/items/3234473"
@@ -46,6 +50,10 @@
   "Ciel": {
     "name": "シエル",
     "itemUrl": "https://booth.pm/ja/items/3368697"
+  },
+  "Clonka": {
+    "name": "クロンカ",
+    "itemUrl": "https://booth.pm/ja/items/4256853"
   },
   "Deltaflair": {
     "name": "デルタフレア",
@@ -91,6 +99,10 @@
     "name": "ひかるん",
     "itemUrl": "https://booth.pm/ja/items/7827639"
   },
+  "IO": {
+    "name": "イオ・ドラゴニュート",
+    "itemUrl": "https://booth.pm/ja/items/6641745"
+  },
   "Ichigo": {
     "name": "イチゴ",
     "itemUrl": "https://booth.pm/ja/items/7328789"
@@ -98,6 +110,10 @@
   "Ichinose": {
     "name": "一ノ瀬",
     "itemUrl": "https://booth.pm/ja/items/6094995"
+  },
+  "Isanai": {
+    "name": "イサナイ・ヌク",
+    "itemUrl": "https://booth.pm/ja/items/6044846"
   },
   "Karin": {
     "name": "カリン",
@@ -150,6 +166,10 @@
   "LethalFreet": {
     "name": "リーサルフリート",
     "itemUrl": "https://booth.pm/ja/items/5832850"
+  },
+  "LilLeo": {
+    "name": "リルレオ",
+    "itemUrl": "https://booth.pm/ja/items/7374627"
   },
   "Liloumois": {
     "name": "リルモワ",
@@ -231,9 +251,17 @@
     "name": "みみのこ",
     "itemUrl": "https://booth.pm/ja/items/6199796"
   },
+  "Minahoshi": {
+    "name": "みなほし",
+    "itemUrl": "https://booth.pm/ja/items/2693309"
+  },
   "Misaki": {
     "name": "海咲",
     "itemUrl": "https://booth.pm/ja/items/8325804"
+  },
+  "Mitsumame": {
+    "name": "みつまめ",
+    "itemUrl": "https://booth.pm/ja/items/5748454"
   },
   "Mizuki": {
     "name": "瑞希",
@@ -271,9 +299,21 @@
     "name": "ノーチカ",
     "itemUrl": "https://booth.pm/ja/items/7363489"
   },
+  "NoraFirika": {
+    "name": "ノラフィリカ",
+    "itemUrl": "https://booth.pm/ja/items/6358495"
+  },
+  "NoraMiaree": {
+    "name": "ノラミアリィ",
+    "itemUrl": "https://booth.pm/ja/items/7657739"
+  },
   "Nozomi": {
     "name": "望身",
     "itemUrl": "https://booth.pm/ja/items/4962068"
+  },
+  "Ortwa": {
+    "name": "オルトア",
+    "itemUrl": "https://booth.pm/ja/items/5702588"
   },
   "Papillon": {
     "name": "パピヨン",
@@ -307,6 +347,10 @@
     "name": "リアアリス",
     "itemUrl": "https://booth.pm/ja/items/2146588"
   },
+  "Ricorine": {
+    "name": "リコリネ",
+    "itemUrl": "https://booth.pm/ja/items/7525578"
+  },
   "Rinasciita": {
     "name": "リナシータ",
     "itemUrl": "https://booth.pm/ja/items/7475899"
@@ -318,6 +362,10 @@
   "Ririka": {
     "name": "りりか",
     "itemUrl": "https://booth.pm/ja/items/6373683"
+  },
+  "Rue": {
+    "name": "こぐまのルウ",
+    "itemUrl": "https://booth.pm/ja/items/3117795"
   },
   "Rumily": {
     "name": "ルミリ",
@@ -375,6 +423,10 @@
     "name": "しお",
     "itemUrl": "https://booth.pm/ja/items/5650156"
   },
+  "Siska": {
+    "name": "ししゅか",
+    "itemUrl": "https://booth.pm/ja/items/7543853"
+  },
   "Sophina": {
     "name": "ソフィナ",
     "itemUrl": "https://booth.pm/ja/items/4044305"
@@ -391,9 +443,17 @@
     "name": "翠羽",
     "itemUrl": "https://booth.pm/ja/items/7534638"
   },
+  "Suzuhana": {
+    "name": "すずはな",
+    "itemUrl": "https://booth.pm/ja/items/2408707"
+  },
   "Tsuyuna": {
     "name": "ツユナ",
     "itemUrl": "https://booth.pm/ja/items/7506277"
+  },
+  "Ulthara": {
+    "name": "ウルタラ",
+    "itemUrl": "https://booth.pm/ja/items/5955835"
   },
   "Uruki": {
     "name": "ウルキ",
@@ -403,9 +463,21 @@
     "name": "うるる",
     "itemUrl": "https://booth.pm/ja/items/4049292"
   },
+  "Usasaki": {
+    "name": "うささき",
+    "itemUrl": "https://booth.pm/ja/items/3550881"
+  },
+  "Uzuruha": {
+    "name": "ウズルハ",
+    "itemUrl": "https://booth.pm/ja/items/5673586"
+  },
   "Wendy": {
     "name": "ウェンディ",
     "itemUrl": "https://booth.pm/ja/items/7841391"
+  },
+  "Yilnel": {
+    "name": "イルネル",
+    "itemUrl": "https://booth.pm/ja/items/6289095"
   },
   "Yoll": {
     "name": "龍のヨルちゃん",
